@@ -1,0 +1,6 @@
+It's simple celcius to fahrenheit and fahrenheit to celcius converter project with the help of HTML-CSS-JS.
+It's pluge and play project, all files in one folder that includes.
+ 
+HTML 2
+->temp.html
+ 
